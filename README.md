@@ -4,6 +4,6 @@ A simple bash script to automate server block setup on nginx
 
 # Usage:
 
-Make script executable: chmod +x nginxscript.sh
+Make script executable: ```chmod +x nginxscript.sh```
 
-Generate new server block: ./nginxscript.sh <your_domain_here>
+Generate new server block: ```./nginxscript.sh <your_domain_here>```
